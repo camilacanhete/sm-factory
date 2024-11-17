@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.13",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7f7615e9-a96c-453b-8af9-70396e71dc76",
+  "files": [],
+  "subMetas": {
+    "84800": {
+      "importer": "gltf-scene",
+      "uuid": "7f7615e9-a96c-453b-8af9-70396e71dc76@84800",
+      "displayName": "",
+      "id": "84800",
+      "name": "suzanne.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a781f": {
+      "importer": "gltf-mesh",
+      "uuid": "7f7615e9-a96c-453b-8af9-70396e71dc76@a781f",
+      "displayName": "",
+      "id": "a781f",
+      "name": "Suzanne.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 968
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "222d4": {
+      "importer": "gltf-material",
+      "uuid": "7f7615e9-a96c-453b-8af9-70396e71dc76@222d4",
+      "displayName": "",
+      "id": "222d4",
+      "name": "material.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "7f7615e9-a96c-453b-8af9-70396e71dc76@a781f"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "7f7615e9-a96c-453b-8af9-70396e71dc76@222d4"
+      ],
+      "scenes": [
+        "7f7615e9-a96c-453b-8af9-70396e71dc76@84800"
+      ]
+    }
+  }
+}
